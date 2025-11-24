@@ -2,7 +2,6 @@
   "wallpaper": "https://xn--ieei-wn6lw489o.v.nxog.top/m/t/",
   "logo": "https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
   "spider": "./ab929138c620ae22f69aae90959d31be.jpg;md5;94cc7730ebec586a25a1179bc4b2754b",
-  "warningText": "免费仅限测试用，请勿演示贩卖购买！提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
   "lives": [
     {
       "name": "免费仅限测试用，请勿演示贩卖购买！",
@@ -15,99 +14,6 @@
     }
   ],
   "sites": [
-    {
-      "key": "豆瓣2",
-      "name": "📢免费仅限测试用，请勿演示贩卖购买！",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "豆瓣1",
-      "name": "📢公告❤更新11.20❤",
-      "type": 3,
-      "api": "csp_Notice",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/1024/21/de45e84e0e43633f96a15e16a1b84cdc.jpg;md5;012f04743a137a0f4622262ba1007f25",
-      "ext": "https://xn--ieei-wn6lw489o.v.nxog.top/m/公告?b=免费仅限测试用，请勿演示贩卖购买！"
-    },
-    {
-      "key": "config",
-      "name": "🐲歌配置｜中心",
-      "type": 3,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e ",
-      "api": "csp_Config",
-      "searchable": 0
-    },
-    {
-      "key": "配置中心",
-      "name": "❤配置｜中心",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
-    {
-      "key": "csp_woog",
-      "name": "🐲玩歌｜4K弹幕",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1aa78a7afa85d5ace98c1c57e6123f2c.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0",
-      "ext": {
-        "site_urls": [
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
-          "https://woog.xn--dkw.xn--6qq986b3xl"
-        ],
-        "url_key": "woog",
-        "threadinfo": {
-          "chunksize": 293,
-          "threads": 16
-        }
-      }
-    },
-    {
-      "key": "欧哥",
-      "name": "🐲装歌｜4K弹幕",
-      "type": 3,
-      "changeable": "0",
-      "api": "csp_Duopan",
-      "filterable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2025/0916/11/0df0dafe840912a9250167063b1f3cad.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e",
-      "ext": {
-        "site_urls": [
-          "https://ogkk.nxog.fun",
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.xn--dkw.xn--6qq986b3xl"
-        ],
-        "url_key": "欧哥",
-        "threadinfo": {
-          "chunksize": 239,
-          "threads": 16
-        }
-      }
-    },
-    {
-      "key": "夸快夸快",
-      "name": "❤夸快｜4K弹幕",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.nxog.fun"
-        ]
-      }
-    },
     {
       "key": "荐片",
       "name": "💡荐片｜影视",
